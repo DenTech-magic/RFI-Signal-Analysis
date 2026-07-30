@@ -55,4 +55,4 @@ Categorized horizontal bar chart mapping specific frequency spikes to known sign
 
 ## 👤 Author
 
-**Denis Micere**
+**M. DENIS**
