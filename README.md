@@ -35,21 +35,21 @@ Make sure you have Python installed along with the following required libraries:
 ### 1. Spectral Line Plot
 Shows frequency response curves across all 16 directional channels ($0^\circ$ to $315^\circ$, H & V).
 
-![RFI Spectral Line Plot](output/RFISIGNALS.png)
+![RFI Spectral Line Plot](Output/RFISIGNALS.png)
 
 ---
 
 ### 2. Spatial Directional Distribution
 A 360-degree polar radar plot highlighting spatial orientation, directional power distribution, and peak intensity.
 
-![RFI Polar Distribution Map](output/RFIPOLARPOINTS.png)
+![RFI Polar Distribution Map](Output/RFIPOLARPOINTS.png)
 
 ---
 
 ### 3. Identified Signal Sources
 Categorized horizontal bar chart mapping specific frequency spikes to known signal allocations (e.g., FM Radio, Cellular, Radar).
 
-![RFI Source Classification Bar Chart](output/RFISOURCES.png)
+![RFI Source Classification Bar Chart](Output/RFISOURCES.png)
 
 ---
 
