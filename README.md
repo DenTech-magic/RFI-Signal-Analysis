@@ -30,14 +30,26 @@ Plaintext
 ├── RFISOURCES.png             # Output: Identified sources bar chart
 └── README.md                  # Project documentation
 
-📊 Outputs Generated
+    ## 📊 Analysis & Visual Results
 
-    RFISIGNALS.png — Overlaid frequency response curves for all 16 directional channels.
+### 1. Spectral Line Plot
+Shows frequency response curves across all 16 directional channels ($0^\circ$ to $315^\circ$, H & V).
 
-    RFIPOLARPOINTS.png — A 360-degree radar view indicating spatial orientation and peak intensity of interference.
+![RFI Spectral Line Plot](output/RFISIGNALS.png)
 
-    RFISOURCES.png — A categorized horizontal bar chart mapping specific frequency spikes to common RF services.
+---
 
+### 2. Spatial Directional Distribution
+A 360-degree polar radar plot highlighting spatial orientation, directional power distribution, and peak intensity.
+
+![RFI Polar Distribution Map](output/RFIPOLARPOINTS.png)
+
+---
+
+### 3. Identified Signal Sources
+Categorized horizontal bar chart mapping specific frequency spikes to known signal allocations (e.g., FM Radio, Cellular, Radar).
+
+![RFI Source Classification Bar Chart](output/RFISOURCES.png)
 👤 Author
 
 Denis Micere
